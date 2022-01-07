@@ -1,0 +1,7 @@
+USER    username :leminhhoang61tk@gmail.com
+        password :123456
+
+ADMIN   username:admin@admin.com
+        password:Test@12345 
+
+
